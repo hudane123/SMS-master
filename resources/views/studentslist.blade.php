@@ -1,6 +1,6 @@
 
 <div class="card mb-3">
-    <img src="https://cdn.pixabay.com/photo/2015/05/19/14/55/educational-773651_960_720.jpg" class="card-img-top" alt="...">
+    <img src="https://cdn.pixabay.com/photo/2018/05/09/22/40/career-3386334_960_720.jpg" class="card-img-top" alt="...">
     <div class="card-body">
         <h5 class="card-title">Daftar Nama Pegawai</h5>
         <p class="card-text">Kenalan sama pegawai dimari om</p>

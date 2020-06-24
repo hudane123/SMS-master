@@ -41,7 +41,7 @@
             <section class="col-md-5">
 
                 <div class="card mb-3">
-                    <img src="https://marketplace.canva.com/MAB7yqsko0c/1/screen_2x/canva-smart-little-schoolgirl--MAB7yqsko0c.jpg" class="card-img-top" alt="...">
+                    <img src="https://images8.alphacoders.com/100/thumb-1920-1003525.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Masukkan Informasi Pegawai</h5>
                         <form action="{{ url('/store') }}" method="post">
